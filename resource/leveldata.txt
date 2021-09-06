@@ -1,0 +1,163 @@
+Name: Word Jammer
+Description: Classic Scramble
+Photo: bg1.png
+Icon: icon1.png
+Music: mus1.mp3
+BoxColorRGB: 255 255 255
+TextColorRGB: 0 0 0
+DictionaryID: 4
+Time: 83
+NumWords: 15/35/50
+NumLetters: 48/112/160
+MinLength: 3/3/3
+MaxLength: 4/4/4
+Wildcards: 0/0/0
+Extras: 0/0/0
+-
+Name: Redwood Forest
+Description: Classic Scramble
+Photo: bg2.png
+Icon: icon2.png
+Music: mus2.mp3
+BoxColorRGB: 200 255 255
+TextColorRGB: 0 0 0
+DictionaryID: 3
+Time: 92
+NumWords: 8/13/16
+NumLetters: 40/65/90
+MinLength: 3/3/3
+MaxLength: 7/7/7
+Wildcards: 0/0/0
+Extras: 0/0/0
+-
+Name: Surprise Party!
+Description: Time Bonuses
+Photo: bg3.png
+Icon: icon3.png
+Music: mus3.mp3
+BoxColorRGB: 0 0 0
+TextColorRGB: 255 255 255
+DictionaryID: 4
+Time: 10
+NumWords: 18/24/40
+NumLetters: 80/116/200
+MinLength: 3/3/3
+MaxLength: 7/7/7
+Wildcards: 0/0/0
+Extras: 0/0/0
+Time Bonuses
+-
+Name: Flashing Letters
+Description: Extras
+Photo: bg4.png
+Icon: icon4.png
+Music: mus4.mp3
+BoxColorRGB: 255 169 56
+TextColorRGB: 255 120 214
+DictionaryID: 4
+Time: 96
+NumWords: 9/11/13
+NumLetters: 40/50/66
+MinLength: 3/3/3
+MaxLength: 6/6/6
+Wildcards: 0/0/0
+Extras: 5/8/14
+-
+Name: Control
+Description: Spinning
+Photo: bg5.png
+Icon: icon5.png
+Music: mus5.mp3
+BoxColorRGB: 212 212 212
+TextColorRGB: 0 0 0
+DictionaryID: 4
+Time: 94
+NumWords: 10/14/16
+NumLetters: 40/61/75
+MinLength: 3/3/4
+MaxLength: 5/6/7
+Wildcards: 0/0/0
+Extras: 0/0/0
+Spinning
+-
+Name: Invasion
+Description: Auto-Hints
+Photo: bg6.png
+Icon: icon6.png
+Music: mus6.mp3
+BoxColorRGB: 255 205 107
+TextColorRGB: 0 0 255 
+DictionaryID: 6
+Time: 110
+NumWords: 7/9/12
+NumLetters: 63/81/108
+MinLength: 9/9/9
+MaxLength: 9/9/9
+Wildcards: 0/0/0
+Extras: 0/0/0
+Auto-Hints
+-
+Name: Creative Process
+Description: Wilds
+Photo: bg7.png
+Icon: icon7.png
+Music: mus7.mp3
+BoxColorRGB: 25 0 0
+TextColorRGB: 255 255 255
+DictionaryID: 3
+Time: 91
+NumWords: 8/11/14
+NumLetters: 40/60/78
+MinLength: 3/4/4
+MaxLength: 6/7/9
+Wildcards: 30/45/56
+Extras: 0/0/0
+-
+Name: Blind Guessing
+Description: Dark
+Photo: bg8.png
+Icon: icon8.png
+Music: mus8.mp3
+BoxColorRGB: 0 0 0
+TextColorRGB: 169 169 169
+DictionaryID: 5
+Time: 81
+NumWords: 7/10/13
+NumLetters: 28/44/59
+MinLength: 3/3/4
+MaxLength: 6/7/7
+Wildcards: 0/0/0
+Extras: 0/1/4
+-
+Name: Level 16
+Description: Classic Scramble
+Photo: bg9.png
+Icon: icon9.png
+Music: mus9.mp3
+BoxColorRGB: 149 0 199
+TextColorRGB: 255 255 255
+DictionaryID: 5
+Time: 102
+NumWords: 7/9/11
+NumLetters: 42/54/66
+MinLength: 3/3/3
+MaxLength: 9/9/9
+Wildcards: 0/0/0
+Extras: 0/0/0
+-
+Name: The Final Scramble
+Description: Wilds and Extras
+Photo: bg10.png
+Icon: icon10.png
+Music: mus10.mp3
+BoxColorRGB: 255 255 255
+TextColorRGB: 60 0 0
+DictionaryID: 6
+Time: 123
+NumWords: 9/13/14
+NumLetters: 40/61/72
+MinLength: 3/4/4
+MaxLength: 6/7/9
+Wildcards: 8/16/24
+Extras: 3/9/11
+-
