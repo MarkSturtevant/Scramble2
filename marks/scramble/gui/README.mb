@@ -1,6 +1,6 @@
 Note: all of the code in the GUI folder is decompiled from the finished copy of Scramble 2.  The logic is nearly the same as the original code, with a few exceptions:
 
-- All comments are deleted
+- All comments got deleted
 
 - Many constant (final) variables were used, but their variable references got replaced with their values
 
